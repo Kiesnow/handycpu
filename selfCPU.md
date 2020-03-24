@@ -26,7 +26,9 @@
 
 
 
-![1](https://github.com/Kiesnow/handycpu/blob/master/images/1.png)
+
+
+![1](./images/1.png)
 
 只实现一条指令ori时的数据流图
 
